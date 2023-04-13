@@ -1,4 +1,4 @@
-# xyzmassreport
+# Xyz Massreport Bot
 Mass Report Bot made for Discord
 - Input Token (preferabbly an alt so you dont get disabled)
 - Select the Option in which you want to report
